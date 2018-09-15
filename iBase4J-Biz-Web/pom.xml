@@ -12,7 +12,7 @@
 	<properties>
 		<jar.dic>${project.basedir}/../</jar.dic>
 	</properties>
-	
+
 	<dependencies>
 		<dependency>
 			<groupId>org.ibase4j</groupId>
